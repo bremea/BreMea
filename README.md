@@ -1,1 +1,1 @@
-i type stuff into a computer
+Full stack developer with 6 years of experience.
