@@ -1,2 +1,1 @@
-Full stack dev and student
-https://bremea.com/
+Full stack dev and student. Made [aionary](https://aionary.com).
