@@ -26,4 +26,4 @@ Find me at these places:
  - [Email](mailto:brett@bremea.com)
  - [Website](https://bremea.com)
 
-Have an epic day <3
+Have an epic day :)
