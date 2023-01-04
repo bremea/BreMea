@@ -1,7 +1,5 @@
 ## bremea
-**Hi!** My name is Brett Meadows, and I'm a full stack dev and student. **Here is [my portfolio](https://bremea.com).** I primarily do web development, and I am very interested in scalibility and operating large/complex systems at scale.
-
-*BTW, I am looking for a job. [Email me](mailto:brett@bremea.com) ;)*
+**Hi!** My name is Brett Meadows, and I'm a full stack dev and student. I primarily do web development, and I am very interested in scalibility and operating large/complex systems efficiently.
 
 ### Skills n' stuff
 Just about everything I use/have used in projects:
@@ -25,5 +23,7 @@ Find me at these places:
  - [Twitter](https://twitter.com/brett_8975)
  - Github *(you are already here)*
  - [Discord](https://discord.com/users/710164635524923575)
+ - [Email](mailto:brett@bremea.com)
+ - [Website](https://bremea.com)
 
 Have an epic day <3
